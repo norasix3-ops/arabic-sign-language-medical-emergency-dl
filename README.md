@@ -75,6 +75,4 @@ Each model was tested under:
 - Skeleton-based approaches are promising for **privacy-preserving** and **real-time** systems
 - Emergency-focused sign recognition requires specialized datasets and evaluation strategies
 
----
 
-## 📁 Repository Contents
